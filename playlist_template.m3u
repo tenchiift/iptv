@@ -1,0 +1,294 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
+
+# ==============================================================================
+# SimpleIPTV Playlist Template (136 channels across 8 folders)
+# Paste each channel's stream URL (.m3u8 / .mpd) on the blank line below #EXTINF.
+# Channels without a URL will still appear in the app and show "No URL inserted".
+# ==============================================================================
+
+# --- Folder 1: Live TV (Malaysia Local & Malay Entertainment) ---
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" group-title="Live TV",TV1
+
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" group-title="Live TV",TV2
+
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" group-title="Live TV",TV3
+
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" group-title="Live TV",TV Okey
+
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" group-title="Live TV",TVS
+
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="DidikTV KPM" group-title="Live TV",DidikTV KPM
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="Live TV",8TV
+
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" group-title="Live TV",TV9
+
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Al-Hijrah" group-title="Live TV",Al-Hijrah
+
+#EXTINF:-1 tvg-id="Astro30" tvg-name="Astro 30" group-title="Live TV",Astro 30
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" group-title="Live TV",Astro Ria
+
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima" group-title="Live TV",Astro Prima
+
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" group-title="Live TV",Astro Oasis
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra" group-title="Live TV",Astro Citra
+
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" group-title="Live TV",Astro Rania
+
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" group-title="Live TV",Astro Aura
+
+#EXTINF:-1 tvg-id="JomNgaji" tvg-name="Jom Ngaji" group-title="Live TV",Jom Ngaji
+
+#EXTINF:-1 tvg-id="FilemMantap" tvg-name="Filem Mantap" group-title="Live TV",Filem Mantap
+
+#EXTINF:-1 tvg-id="DramaHebat" tvg-name="Drama Hebat" group-title="Live TV",Drama Hebat
+
+#EXTINF:-1 tvg-id="DramaHotpot" tvg-name="Drama Hotpot" group-title="Live TV",Drama Hotpot
+
+#EXTINF:-1 tvg-id="LawakSentral" tvg-name="Lawak Sentral" group-title="Live TV",Lawak Sentral
+
+#EXTINF:-1 tvg-id="TravelandTaste" tvg-name="Travel & Taste" group-title="Live TV",Travel & Taste
+
+#EXTINF:-1 tvg-id="OhMyCeria" tvg-name="Oh My Ceria" group-title="Live TV",Oh My Ceria
+
+
+# --- Folder 2: News ---
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" group-title="News",Astro Awani
+
+#EXTINF:-1 tvg-id="BernamaTV" tvg-name="BERNAMA" group-title="News",BERNAMA
+
+#EXTINF:-1 tvg-id="BeritaRTM" tvg-name="Berita RTM" group-title="News",Berita RTM
+
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" group-title="News",CNA
+
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" group-title="News",CNN
+
+#EXTINF:-1 tvg-id="BBCNews" tvg-name="BBC News" group-title="News",BBC News
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="News",CGTN
+
+#EXTINF:-1 tvg-id="CNBCAsia" tvg-name="CNBC Asia" group-title="News",CNBC Asia
+
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" group-title="News",Bloomberg TV
+
+#EXTINF:-1 tvg-id="ABCAustralia" tvg-name="ABC Australia" group-title="News",ABC Australia
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW English" group-title="News",DW English
+
+#EXTINF:-1 tvg-id="France24" tvg-name="France24" group-title="News",France24
+
+
+# --- Folder 3: Sports ---
+#EXTINF:-1 tvg-id="AstroArena" tvg-name="Astro Arena" group-title="Sports",Astro Arena
+
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Astro Arena Bola" group-title="Sports",Astro Arena Bola
+
+#EXTINF:-1 tvg-id="AstroArenaBola2" tvg-name="Astro Arena Bola 2" group-title="Sports",Astro Arena Bola 2
+
+#EXTINF:-1 tvg-id="AstroStadium" tvg-name="Astro Stadium" group-title="Sports",Astro Stadium
+
+#EXTINF:-1 tvg-id="AstroSportsUHD" tvg-name="Astro Sports UHD" group-title="Sports",Astro Sports UHD
+
+#EXTINF:-1 tvg-id="Sukan+" tvg-name="Sukan+" group-title="Sports",Sukan+
+
+#EXTINF:-1 tvg-id="AstroGrandstand" tvg-name="Astro Grandstand" group-title="Sports",Astro Grandstand
+
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" group-title="Sports",Astro Premier League
+
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" group-title="Sports",Astro Premier League 2
+
+#EXTINF:-1 tvg-id="AstroFootball" tvg-name="Astro Football" group-title="Sports",Astro Football
+
+#EXTINF:-1 tvg-id="AstroBadminton" tvg-name="Astro Badminton" group-title="Sports",Astro Badminton
+
+#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-name="Astro Sports Plus" group-title="Sports",Astro Sports Plus
+
+#EXTINF:-1 tvg-id="AstroTennis" tvg-name="Astro Tennis" group-title="Sports",Astro Tennis
+
+#EXTINF:-1 tvg-id="AstroGolf" tvg-name="Astro Golf" group-title="Sports",Astro Golf
+
+#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN Sports" group-title="Sports",beIN Sports
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2" group-title="Sports",beIN Sports 2
+
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" group-title="Sports",beIN Sports 3
+
+#EXTINF:-1 tvg-id="W-Sport" tvg-name="W-Sport" group-title="Sports",W-Sport
+
+#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports" group-title="Sports",Premier Sports
+
+#EXTINF:-1 tvg-id="Cricbuzz" tvg-name="Cricbuzz" group-title="Sports",Cricbuzz
+
+#EXTINF:-1 tvg-id="WeDoTVSports" tvg-name="WeDoTV Sports" group-title="Sports",WeDoTV Sports
+
+
+# --- Folder 4: Movies & Drama ---
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" group-title="Movies & Drama",HITS Movies
+
+#EXTINF:-1 tvg-id="AstroBoo" tvg-name="Astro Boo" group-title="Movies & Drama",Astro Boo
+
+#EXTINF:-1 tvg-id="AstroShowtime" tvg-name="Astro Showtime" group-title="Movies & Drama",Astro Showtime
+
+#EXTINF:-1 tvg-id="AstroFAMTime" tvg-name="Astro FAM Time" group-title="Movies & Drama",Astro FAM Time
+
+#EXTINF:-1 tvg-id="AstroShowcase" tvg-name="Astro Showcase" group-title="Movies & Drama",Astro Showcase
+
+#EXTINF:-1 tvg-id="ROCKACtion" tvg-name="ROCK Action" group-title="Movies & Drama",ROCK Action
+
+#EXTINF:-1 tvg-id="ROCKXStream" tvg-name="ROCK X Stream" group-title="Movies & Drama",ROCK X Stream
+
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies" group-title="Movies & Drama",tvN Movies
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Movies & Drama",AXN
+
+#EXTINF:-1 tvg-id="HITSNow" tvg-name="HITS Now" group-title="Movies & Drama",HITS Now
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" group-title="Movies & Drama",Lifetime
+
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" group-title="Movies & Drama",HITS
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="Movies & Drama",TLC
+
+#EXTINF:-1 tvg-id="AFN" tvg-name="Asian Food Network" group-title="Movies & Drama",Asian Food Network
+
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime & Investigation" group-title="Movies & Drama",Crime & Investigation
+
+#EXTINF:-1 tvg-id="GustoTV" tvg-name="GustoTV" group-title="Movies & Drama",GustoTV
+
+#EXTINF:-1 tvg-id="FreeMovies" tvg-name="Free Movies" group-title="Movies & Drama",Free Movies
+
+#EXTINF:-1 tvg-id="KCM" tvg-name="KCM" group-title="Movies & Drama",KCM
+
+#EXTINF:-1 tvg-id="HorseandCountry" tvg-name="Horse & Country" group-title="Movies & Drama",Horse & Country
+
+#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" group-title="Movies & Drama",Fashion TV
+
+#EXTINF:-1 tvg-id="WeDoTVAmor" tvg-name="WeDoTV Amor" group-title="Movies & Drama",WeDoTV Amor
+
+#EXTINF:-1 tvg-id="WeDoTVBigStories" tvg-name="WeDoTV Big Stories" group-title="Movies & Drama",WeDoTV Big Stories
+
+#EXTINF:-1 tvg-id="WeDoTMovies" tvg-name="WeDoTV Movies" group-title="Movies & Drama",WeDoTV Movies
+
+
+# --- Folder 5: Documentary ---
+#EXTINF:-1 tvg-id="LoveNature4K" tvg-name="Love Nature 4K" group-title="Documentary",Love Nature 4K
+
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" group-title="Documentary",Love Nature
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" tvg-name="Discovery Channel HD" group-title="Documentary",Discovery Channel HD
+
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-name="Discovery Asia" group-title="Documentary",Discovery Asia
+
+#EXTINF:-1 tvg-id="BBCEarth" tvg-name="BBC Earth" group-title="Documentary",BBC Earth
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" group-title="Documentary",History
+
+#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTN Documentary" group-title="Documentary",CGTN Documentary
+
+
+# --- Folder 6: Kids & Anime ---
+#EXTINF:-1 tvg-id="AstroTutorTV" tvg-name="Astro Tutor TV" group-title="Kids & Anime",Astro Tutor TV
+
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" group-title="Kids & Anime",Astro Ceria
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="Kids & Anime",Cartoon Network
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Kids & Anime",Nickelodeon
+
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="Kids & Anime",Nick Jr
+
+#EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug" group-title="Kids & Anime",Moonbug
+
+#EXTINF:-1 tvg-id="BlippiandFriends" tvg-name="Blippi & Friends" group-title="Kids & Anime",Blippi & Friends
+
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" group-title="Kids & Anime",Aniplus
+
+#EXTINF:-1 tvg-id="Pokemon" tvg-name="Pokémon" group-title="Kids & Anime",Pokémon
+
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax HD" group-title="Kids & Anime",Animax HD
+
+
+# --- Folder 7: Chinese, Korean & Japanese ---
+#EXTINF:-1 tvg-id="iQIYI" tvg-name="iQIYI" group-title="Chinese, Korean & Japanese",iQIYI
+
+#EXTINF:-1 tvg-id="TVBClassic" tvg-name="TVB Classic" group-title="Chinese, Korean & Japanese",TVB Classic
+
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" group-title="Chinese, Korean & Japanese",Astro AEC
+
+#EXTINF:-1 tvg-id="AstroQJ" tvg-name="Astro QJ" group-title="Chinese, Korean & Japanese",Astro QJ
+
+#EXTINF:-1 tvg-id="CelestialMovies" tvg-name="Celestial Movies" group-title="Chinese, Korean & Japanese",Celestial Movies
+
+#EXTINF:-1 tvg-id="TVBJade" tvg-name="TVB Jade" group-title="Chinese, Korean & Japanese",TVB Jade
+
+#EXTINF:-1 tvg-id="AstroAOD" tvg-name="Astro AOD" group-title="Chinese, Korean & Japanese",Astro AOD
+
+#EXTINF:-1 tvg-id="CTIAsia" tvg-name="CTI Asia HD" group-title="Chinese, Korean & Japanese",CTI Asia HD
+
+#EXTINF:-1 tvg-id="TVBEntertainmentNews" tvg-name="TVB Entertainment News" group-title="Chinese, Korean & Japanese",TVB Entertainment News
+
+#EXTINF:-1 tvg-id="TVBXingHe" tvg-name="TVB Xing He" group-title="Chinese, Korean & Japanese",TVB Xing He
+
+#EXTINF:-1 tvg-id="TVBSAsia" tvg-name="TVBS Asia" group-title="Chinese, Korean & Japanese",TVBS Asia
+
+#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" group-title="Chinese, Korean & Japanese",CCM
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" tvg-name="Phoenix Chinese Channel" group-title="Chinese, Korean & Japanese",Phoenix Chinese Channel
+
+#EXTINF:-1 tvg-id="PhoenixInfoNews" tvg-name="Phoenix Info News" group-title="Chinese, Korean & Japanese",Phoenix Info News
+
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" tvg-name="Astro Hua Hee Dai" group-title="Chinese, Korean & Japanese",Astro Hua Hee Dai
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="Chinese, Korean & Japanese",CCTV4
+
+#EXTINF:-1 tvg-id="MangoTV" tvg-name="Mango TV" group-title="Chinese, Korean & Japanese",Mango TV
+
+#EXTINF:-1 tvg-id="UPandaTV" tvg-name="U-Panda TV" group-title="Chinese, Korean & Japanese",U-Panda TV
+
+#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" group-title="Chinese, Korean & Japanese",KBS World
+
+#EXTINF:-1 tvg-id="AstroDaebak" tvg-name="Astro Daebak" group-title="Chinese, Korean & Japanese",Astro Daebak
+
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="Chinese, Korean & Japanese",tvN
+
+#EXTINF:-1 tvg-id="K-Plus" tvg-name="K-Plus" group-title="Chinese, Korean & Japanese",K-Plus
+
+#EXTINF:-1 tvg-id="NHKWorldPremium" tvg-name="NHK World" group-title="Chinese, Korean & Japanese",NHK World
+
+
+# --- Folder 8: Indian & Tamil ---
+#EXTINF:-1 tvg-id="ColorsHD" tvg-name="Colors Hindi" group-title="Indian & Tamil",Colors Hindi
+
+#EXTINF:-1 tvg-id="AstroVaanavil" tvg-name="Astro Vaanavil" group-title="Indian & Tamil",Astro Vaanavil
+
+#EXTINF:-1 tvg-id="AstroVinmeen" tvg-name="Astro Vinmeen" group-title="Indian & Tamil",Astro Vinmeen
+
+#EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="Indian & Tamil",Astro Vellithirai
+
+#EXTINF:-1 tvg-id="AstroThangathirai" tvg-name="Astro Thangathirai" group-title="Indian & Tamil",Astro Thangathirai
+
+#EXTINF:-1 tvg-id="SunTV" tvg-name="Sun TV" group-title="Indian & Tamil",Sun TV
+
+#EXTINF:-1 tvg-id="SunMusic" tvg-name="Sun Music" group-title="Indian & Tamil",Sun Music
+
+#EXTINF:-1 tvg-id="Adithya" tvg-name="Adithya" group-title="Indian & Tamil",Adithya
+
+#EXTINF:-1 tvg-id="SunNews" tvg-name="Sun News" group-title="Indian & Tamil",Sun News
+
+#EXTINF:-1 tvg-id="KTV" tvg-name="KTV" group-title="Indian & Tamil",KTV
+
+#EXTINF:-1 tvg-id="SonyVizha" tvg-name="Sony Vizha" group-title="Indian & Tamil",Sony Vizha
+
+#EXTINF:-1 tvg-id="SunLife" tvg-name="Sun Life" group-title="Indian & Tamil",Sun Life
+
+#EXTINF:-1 tvg-id="StarVijay" tvg-name="Star Vijay" group-title="Indian & Tamil",Star Vijay
+
+#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-name="Colors Tamil" group-title="Indian & Tamil",Colors Tamil
+
+#EXTINF:-1 tvg-id="ZeeTamilHD" tvg-name="Zee Tamil" group-title="Indian & Tamil",Zee Tamil
+
+#EXTINF:-1 tvg-id="ZeeCinema" tvg-name="Zee Cinema" group-title="Indian & Tamil",Zee Cinema
