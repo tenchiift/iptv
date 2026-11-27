@@ -1,3 +1,4 @@
+folder title = 'Kids import'
 
 
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz,https://i.mjh.nz/PlutoTV/all.xml.gz"
