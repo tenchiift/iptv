@@ -1,0 +1,109 @@
+folder title = 'Malaysia & Serantau'
+
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/epg.xml"
+#PLAYLIST:Curated Malaysia, Singapore & Brunei IPTV (Clean)
+
+# --- MALAYSIA & BRUNEI ---
+#EXTINF:-1 tvg-id="BeritaRTM.my@SD" group-title="Malaysia & Brunei",Berita RTM (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+#EXTINF:-1 tvg-id="CinemaWorld.my@Vietnam" group-title="Malaysia & Brunei",CinemaWorld Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.44:8244
+
+#EXTINF:-1 tvg-id="Okey.my@SD" group-title="Malaysia & Brunei",Okey (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 tvg-id="RTBGo.bn@SD" group-title="Malaysia & Brunei",RTB Go (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTBSukmaindera.bn@SD" group-title="Malaysia & Brunei",RTB Sukmaindera (720p)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TV1.my@SD" group-title="Malaysia & Brunei",TV1 (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV2.my@SD" group-title="Malaysia & Brunei",TV2 (1080p)
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+
+# --- SINGAPORE & SEA NETWORKS ---
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" group-title="Singapore & SEA Networks",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" group-title="Singapore & SEA Networks",Asian Food Network Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" group-title="Singapore & SEA Networks",AXN Asia Indonesia (720p)
+http://103.165.207.108:8000/play/a00n/index.m3u8
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" group-title="Singapore & SEA Networks",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="AXNAsia.sg@Vietnam" group-title="Singapore & SEA Networks",AXN Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="Singapore & SEA Networks",Cartoon Network Asia (720p)
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Thailand" group-title="Singapore & SEA Networks",Cartoon Network Asia Thailand
+http://103.148.210.190:8000/play/a14r
+
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@Vietnam" group-title="Singapore & SEA Networks",Cartoon Network Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.16:8070
+
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" group-title="Singapore & SEA Networks",Cartoonito Asia (720p)
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.sg@SD" group-title="Singapore & SEA Networks",Channel 5 (720p)
+https://cdn.qd.je/163189/ch5
+
+#EXTINF:-1 tvg-id="Channel8.sg@SD" group-title="Singapore & SEA Networks",Channel 8 (720p)
+https://cdn.qd.je/163189/ch8
+
+#EXTINF:-1 tvg-id="ChannelU.sg@SD" group-title="Singapore & SEA Networks",Channel U (720p)
+https://cdn.qd.je/163189/chu
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@Taiwan" group-title="Singapore & SEA Networks",Cinemax Asia Taiwan (1080p)
+http://125.227.210.55:1001/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@Vietnam" group-title="Singapore & SEA Networks",Cinemax Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.20:8094
+
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" group-title="Singapore & SEA Networks",CNA International (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" group-title="Singapore & SEA Networks",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNBCAsia.sg@HD" group-title="Singapore & SEA Networks",CNBC Asia HD (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9855
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSoutheastAsia.sg@SD" group-title="Singapore & SEA Networks",Discovery Channel Southeast Asia (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.47:8262
+
+#EXTINF:-1 tvg-id="HBOAsia.sg@Vietnam" group-title="Singapore & SEA Networks",HBO Asia (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.19:8088
+
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="Singapore & SEA Networks",HBO Asia SD (576p)
+http://103.148.210.190:8000/play/a0s8/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" group-title="Singapore & SEA Networks",HBO Asia Taiwan (1080p)
+http://125.227.210.55:1003/VideoInput/play.ts
+
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" group-title="Singapore & SEA Networks",meWATCH LIVE 1 (1080p)
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+
+#EXTINF:-1 tvg-id="NickJrAsia.sg@SD" group-title="Singapore & SEA Networks",Nick Jr. Asia
+http://103.253.74.210:7070/stream/116/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="Singapore & SEA Networks",Nickelodeon Asia
+http://103.253.74.210:7070/stream/117/index.m3u8
+
+#EXTINF:-1 tvg-id="NickelodeonAsia.sg@Indonesia" group-title="Singapore & SEA Networks",Nickelodeon Asia Indonesia (720p)
+http://103.165.207.108:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg@SD" group-title="Singapore & SEA Networks",TLC Southeast Asia
+http://103.253.74.210:7070/stream/108/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTVAsiaPacific.sg@SD" group-title="Singapore & SEA Networks",Zee TV Asia Pacific (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+
